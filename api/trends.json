@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T10:37:21.456808+08:00",
-  "total_titles_processed": 870,
+  "generated_at": "2026-06-24T14:37:37.873087+08:00",
+  "total_titles_processed": 1051,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "为期60天，美国暂时解除对伊朗石油制裁，这是过去数十年来第一次！",
@@ -78,6 +78,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "以色列前总理承认，曾密送星链试图颠覆伊朗政权",
+          "url": "https://news.ifeng.com/c/8uCdaH694Zv",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时37分 ~ 14时37分]"
+        },
+        {
           "title": "伊朗总统佩泽希齐扬：讨论了很多关于该地区最新发展的重要观点。",
           "url": "https://flash.jin10.com/detail/20260624001633458800",
           "source": "金十数据",
@@ -111,6 +122,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "国际原子能机构称将对伊朗进行核查",
+          "url": "https://flash.jin10.com/detail/20260624141058379800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
           "title": "英国央行官员：伊朗冲突通胀传导效应料弱于乌克兰冲突",
           "url": "https://wallstreetcn.com/livenews/3123603",
           "source": "华尔街见闻-快讯",
@@ -120,17 +142,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
-        },
-        {
-          "title": "以色列前总理承认，曾密送星链试图颠覆伊朗政权",
-          "url": "https://news.ifeng.com/c/8uCdaH694Zv",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时37分"
         },
         {
           "title": "据美联社：美国国土安全部发言人表示，美方放宽了对伊朗世界杯代表队的限制，允许该队在下一场比赛前两天启程前往比赛场地。",
@@ -150,7 +161,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
         },
@@ -179,6 +190,18 @@
           "time_info": "[00时21分 ~ 07时01分]"
         },
         {
+          "title": "伊朗官宣霍尔木兹海峡免费开放 60 天，60 天后通行规则由美伊谈判决定，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2052882056875603762",
+          "source": "知乎",
+          "ranks": [
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时37分 ~ 14时37分]"
+        },
+        {
           "title": "鲁比奥：伊朗出于“内部原因”否认同意核检查",
           "url": "https://flash.jin10.com/detail/20260624022550760800",
           "source": "金十数据",
@@ -201,24 +224,13 @@
           "time_info": "00时21分"
         },
         {
-          "title": "伊朗官宣霍尔木兹海峡免费开放 60 天，60 天后通行规则由美伊谈判决定，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2052882056875603762",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
           "title": "美参议院通过涉伊朗的战争权力决议",
           "url": "https://www.toutiao.com/trending/7653777689459310634/",
           "source": "今日头条",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
         },
@@ -300,13 +312,24 @@
           "time_info": "03时03分"
         },
         {
+          "title": "以色列证实向伊朗偷运数万星链",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E8%AF%81%E5%AE%9E%E5%90%91%E4%BC%8A%E6%9C%97%E5%81%B7%E8%BF%90%E6%95%B0%E4%B8%87%E6%98%9F%E9%93%BE%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
           "title": "美国财长贝森特：我们已告诉伊朗人我们想要一个“大协议”。 伊朗谈判将是一个过程。 如果伊朗降低其石油价格，对世界更好。 我们给伊朗提供胡萝卜，也有大棒。",
           "url": "https://wallstreetcn.com/livenews/3123708",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
         },
@@ -325,7 +348,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "美部长拍特朗普马屁，当场被打脸",
@@ -375,6 +398,17 @@
           "time_info": "07时57分"
         },
         {
+          "title": "史上首次！美参众两院通过决议，共同限制特朗普战争权力",
+          "url": "https://news.ifeng.com/c/8uClVTnMwCW",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时37分 ~ 14时37分]"
+        },
+        {
           "title": "据英国金融时报：知情人士透露，特朗普在上周的七国集团峰会上对乌克兰在俄罗斯境内进行的远程打击“印象深刻，并表示非常赞赏”。特朗普还同意加大对俄罗斯能源的制裁力度。",
           "url": "https://flash.jin10.com/detail/20260624001541670800",
           "source": "金十数据",
@@ -397,6 +431,17 @@
           "time_info": "03时03分"
         },
         {
+          "title": "特朗普最新支持率公布",
+          "url": "https://news.ifeng.com/c/8uD1v25JY2x",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时37分 ~ 14时37分]"
+        },
+        {
           "title": "特朗普提前宣布斯塔默辞职有何意味",
           "url": "https://www.toutiao.com/trending/7654527066271911478/",
           "source": "今日头条",
@@ -409,17 +454,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时21分 ~ 07时57分]"
-        },
-        {
-          "title": "史上首次！美参众两院通过决议，共同限制特朗普战争权力",
-          "url": "https://news.ifeng.com/c/8uClVTnMwCW",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时37分"
         },
         {
           "title": "美国众议院以压倒性票数通过了可负担住房法案，现已送交美国总统特朗普签署。",
@@ -445,24 +479,13 @@
           "time_info": "[05时24分 ~ 07时01分]"
         },
         {
-          "title": "特朗普最新支持率公布",
-          "url": "https://news.ifeng.com/c/8uD1v25JY2x",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
           "title": "美参议院通过决议要求特朗普结束对伊朗战事",
           "url": "https://wallstreetcn.com/livenews/3123726",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
         },
@@ -471,11 +494,12 @@
           "url": "https://www.cls.cn/detail/2407367",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时37分 ~ 14时37分]"
         },
         {
           "title": "国际足联主席：特朗普将亲自颁发世界杯奖杯。​​​",
@@ -555,6 +579,17 @@
           "time_info": "05时24分"
         },
         {
+          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
           "title": "美国总统特朗普：正与伊朗达成一份协议，将观察后续进展。 伊朗关于国际原子能机构（IAEA）观察员的立场是错误的。 并不急于实地调查伊朗的核问题。 伊朗在饥饿、食品、医药、通胀方面存在问题。",
           "url": "https://wallstreetcn.com/livenews/3123594",
           "source": "华尔街见闻-快讯",
@@ -594,9 +629,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
+        },
+        {
+          "title": "特朗普：大型石油公司没有降低油价，已指示司法部立即调查。 汽油价格“最好赶紧下降”。",
+          "url": "https://wallstreetcn.com/livenews/3123784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         }
       ]
     },
@@ -613,8 +659,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时01分 ~ 10时37分]"
+          "appearance_count": 4,
+          "time_info": "[07时01分 ~ 14时37分]"
         },
         {
           "title": "【早报】美股半导体指数，暴跌超7%！芯片股全线重挫，闪迪、美光科技跌超13%；黄金、原油齐跌；C罗双响葡萄牙5球大胜、英格兰0-0战平加纳",
@@ -625,8 +671,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 10时37分]"
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 14时37分]"
         },
         {
           "title": "美股集体低开 纳指跌超2%",
@@ -638,6 +684,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "6月24日投资避雷针：美股半导体指数暴跌超7% 闪迪、美光科技跌超13%",
+          "url": "https://www.cls.cn/detail/2407435",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时37分 ~ 14时37分]"
         },
         {
           "title": "Cerebras Systems第一财季营收1.934亿美元，分析师预期1.814亿美元。 第一财季硬件营收1.106亿美元，云收入0.828亿美元。 第一财季每股亏损0.22美元，毛利润率45%，运营开支1.012亿美元。 预计全年营收8.55亿-8.65亿美元，分析师预期8.248亿美元。 预计第二财季营收大约1.94亿美元，分析师预期1.733亿美元。 Cerebras美股盘后跌5%。",
@@ -663,17 +720,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时21分 ~ 07时01分]"
-        },
-        {
-          "title": "6月24日投资避雷针：美股半导体指数暴跌超7% 闪迪、美光科技跌超13%",
-          "url": "https://www.cls.cn/detail/2407435",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时37分"
         },
         {
           "title": "美股七巨头收盘播报｜周二（6月23日），美国科技股七巨头（Magnificent 7）指数跌1.44%，报205.68点，特斯拉收跌5.79%。 “超大”市值科技股指数跌2.53%，报423.41点。",
@@ -817,7 +863,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
         },
@@ -863,6 +909,17 @@
           "time_info": "[00时21分 ~ 07时01分]"
         },
         {
+          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3775262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 14时37分]"
+        },
+        {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐升，金银下挫",
           "url": "https://wallstreetcn.com/articles/3775262",
           "source": "华尔街见闻",
@@ -874,17 +931,6 @@
           "time_info": "[07时00分 ~ 07时01分]"
         },
         {
-          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3775262",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 10时37分]"
-        },
-        {
           "title": "AI交易遭遇加息考验：除了美元、美债，一切都在跌",
           "url": "https://wallstreetcn.com/articles/3775294",
           "source": "华尔街见闻",
@@ -893,8 +939,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 10时37分]"
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 14时37分]"
         },
         {
           "title": "两年期美债收益率周二跌超2.7个基点",
@@ -911,8 +957,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "日本财务大臣片山皋月：谷歌将向三家日本大银行提供最新AI技术。",
+          "url": "https://wallstreetcn.com/livenews/3123810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
         {
           "title": "谷歌：为某些金融服务广告主引入新的验证要求。",
           "url": "https://flash.jin10.com/detail/20260624000741229800",
@@ -961,7 +1018,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "高盛首次下调 2026 年黄金目标价，国内银行业亦密集收紧黄金交易杠杆，国际金价是否即将跌破 4000？",
@@ -991,13 +1048,24 @@
           "time_info": "[00时21分 ~ 07时01分]"
         },
         {
+          "title": "麦格理下调黄金展望，目前预计第三季度金价为每盎司4,450美元，较此前预测下调3.3%；第四季度为每盎司4,300美元，下调2.3%。",
+          "url": "https://wallstreetcn.com/livenews/3123787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
           "title": "金价见底三大信号",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%A7%81%E5%BA%95%E4%B8%89%E5%A4%A7%E4%BF%A1%E5%8F%B7%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
         }
@@ -1053,7 +1121,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
         },
