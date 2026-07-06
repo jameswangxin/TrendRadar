@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T15:03:03.081358+08:00",
-  "total_titles_processed": 979,
+  "generated_at": "2026-07-06T19:56:22.045658+08:00",
+  "total_titles_processed": 1198,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
@@ -51,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时32分 ~ 15时03分]"
+          "appearance_count": 4,
+          "time_info": "[10时32分 ~ 19时56分]"
         },
         {
           "title": "一图看懂｜宣布关税后大量交易，特朗普账户如何“精准”炒股",
@@ -125,6 +125,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：特朗普和我在许多问题上意见一致。我与特朗普的关系很好。",
+          "url": "https://flash.jin10.com/detail/20260706192506914800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
         },
         {
           "title": "美国总统特朗普：我要向“Freedom 250”、伟大的白宫委员会以及Pyrotecnico公司表示祝贺，感谢你们呈现了我所见过的最壮观的烟花表演——我可是几乎看过所有大型烟花秀。祝贺你们出色完成了这项工作！",
@@ -324,6 +335,17 @@
           "time_info": "[00时55分 ~ 07时57分]"
         },
         {
+          "title": "以色列总理内塔尼亚胡：特朗普和我在很多事情上看法一致。 我与特朗普的关系“没问题”。 尚未确定访美日期。",
+          "url": "https://wallstreetcn.com/livenews/3129367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：财政部已正式推出特朗普账户项目，本届政府希望借助该项目提升下一代民众的金融素养，帮助他们理解投资的价值。",
           "url": "https://flash.jin10.com/detail/20260705234623439800",
           "source": "金十数据",
@@ -396,6 +418,19 @@
           "time_info": "[00时55分 ~ 07时57分]"
         },
         {
+          "title": "伊朗最高领袖发布任免令",
+          "url": "https://news.ifeng.com/c/8uX0AQwmuwO",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时32分 ~ 19时56分]"
+        },
+        {
           "title": "伊朗官员称该国已恢复与卡塔尔的海上贸易",
           "url": "https://wallstreetcn.com/livenews/3129009",
           "source": "华尔街见闻-快讯",
@@ -409,27 +444,16 @@
           "time_info": "[00时55分 ~ 07时57分]"
         },
         {
-          "title": "伊朗最高领袖发布任免令",
-          "url": "https://news.ifeng.com/c/8uX0AQwmuwO",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时32分 ~ 15时03分]"
-        },
-        {
           "title": "伊朗借哈梅内伊国葬释放3个政治讯息",
           "url": "https://news.ifeng.com/c/8uXROeZKlPw",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时02分 ~ 15时03分]"
+          "appearance_count": 3,
+          "time_info": "[15时02分 ~ 19时56分]"
         },
         {
           "title": "英法高调宣布保障霍尔木兹航行自由，伊朗强硬警告，国际油价暗盘拉升，中东局势会再度升级吗？",
@@ -548,7 +572,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "精准预测“美股动量股”暴跌后，高盛看到“逢低买入”的迹象",
@@ -582,8 +606,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时02分 ~ 15时03分]"
+          "appearance_count": 3,
+          "time_info": "[15时02分 ~ 19时56分]"
+        },
+        {
+          "title": "美股史上最大规模海外公司首次募资！“存储巨头”SK海力士本周五登陆纳斯达克",
+          "url": "https://wallstreetcn.com/articles/3776235",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时02分 ~ 19时56分]"
         },
         {
           "title": "本周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
@@ -597,15 +633,15 @@
           "time_info": "10时32分"
         },
         {
-          "title": "美股史上最大规模海外公司首次募资！“存储巨头”SK海力士本周五登陆纳斯达克",
-          "url": "https://wallstreetcn.com/articles/3776235",
-          "source": "华尔街见闻",
+          "title": "SK海力士正式启动美股上市营销推介流程",
+          "url": "https://flash.jin10.com/detail/20260706192535279800",
+          "source": "金十数据",
           "ranks": [
-            8
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时02分 ~ 15时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
         },
         {
           "title": "本周重要事件与数据预告：美联储会议纪要；中国CPI、外储；SK海力士登陆美股",
@@ -631,7 +667,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
         },
@@ -642,7 +678,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
         }
