@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T09:49:23.653350+08:00",
-  "total_titles_processed": 670,
+  "generated_at": "2026-07-13T13:27:07.695956+08:00",
+  "total_titles_processed": 868,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 53,
+      "match_count": 61,
       "titles": [
         {
           "title": "伊朗关闭霍尔木兹海峡、打击美在中东目标，美军对伊发动新一轮袭击、多地传出爆炸声",
@@ -107,6 +107,29 @@
           "time_info": "[00时46分 ~ 06时39分]"
         },
         {
+          "title": "【早报】美国对伊朗发动打击；油价大涨，黄金跌破4100美元；半导体设备龙头，今日复牌",
+          "url": "https://www.cls.cn/detail/2423960",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 13时27分]"
+        },
+        {
+          "title": "穆杰塔巴报复名单加剧对立，美以恐谋求颠覆伊朗现政权",
+          "url": "https://news.ifeng.com/c/8uiovLcFI7X",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 13时27分]"
+        },
+        {
           "title": "据AXIOS网站：美国官员称，美国军方在一小时前对霍尔木兹海峡周边几个地点的导弹和空中防御系统以及伊朗革命卫队的小型船只进行了几次打击。",
           "url": "https://flash.jin10.com/detail/20260713002259107800",
           "source": "金十数据",
@@ -140,18 +163,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "【早报】美国对伊朗发动打击；油价大涨，黄金跌破4100美元；半导体设备龙头，今日复牌",
-          "url": "https://www.cls.cn/detail/2423960",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -237,6 +249,17 @@
           "time_info": "07时44分"
         },
         {
+          "title": "约旦称击落伊朗发射的四枚导弹。（美联社）",
+          "url": "https://wallstreetcn.com/livenews/3132615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
           "title": "伊朗议员：管控霍尔木兹海峡是伊朗的“最终”政策",
           "url": "https://flash.jin10.com/detail/20260713015857749800",
           "source": "金十数据",
@@ -260,6 +283,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时40分 ~ 06时39分]"
+        },
+        {
+          "title": "约旦称拦截并击落4枚自伊朗方向进入其领空导弹",
+          "url": "https://flash.jin10.com/detail/20260713130415997800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         },
         {
           "title": "伊朗霍尔木兹甘省多地遭美袭击 致1死2伤",
@@ -576,7 +610,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -587,7 +621,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -625,13 +659,68 @@
           "time_info": "07时44分"
         },
         {
+          "title": "伊朗对位于科威特美军设施发动新一轮打击",
+          "url": "https://wallstreetcn.com/livenews/3132603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
+          "title": "伊朗称击毁美军海马斯发射平台",
+          "url": "https://flash.jin10.com/detail/20260713124315706800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
+          "title": "伊朗革命卫队：摧毁两台部署至科威特的美国海马斯火箭炮发射系统。",
+          "url": "https://flash.jin10.com/detail/20260713124116206800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
+          "title": "伊朗军方谴责美国屡次“非法袭击”",
+          "url": "https://wallstreetcn.com/livenews/3132597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
+          "title": "据伊朗媒体7月13日报道，巴林一处美商业机构遭袭起火。（CCTV国际时讯）",
+          "url": "https://wallstreetcn.com/livenews/3132596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
           "title": "美军袭击伊朗一水泵站 致1死4伤",
           "url": "https://flash.jin10.com/detail/20260713092045208800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -650,7 +739,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普立下数千枚导弹“报复遗嘱”，万斯可以不听吗？",
@@ -687,6 +776,17 @@
           "time_info": "[00时46分 ~ 06时39分]"
         },
         {
+          "title": "特朗普：伊朗违背承诺，刚谈完不到一小时就袭击商船",
+          "url": "https://news.ifeng.com/c/8uidsBIJWO9",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时49分 ~ 13时27分]"
+        },
+        {
           "title": "特朗普在对伊战争上“没有什么可以向美国选民兜售的”",
           "url": "https://flash.jin10.com/detail/20260713021538403800",
           "source": "金十数据",
@@ -700,15 +800,15 @@
           "time_info": "[02时51分 ~ 05时40分]"
         },
         {
-          "title": "特朗普：伊朗违背承诺，刚谈完不到一小时就袭击商船",
-          "url": "https://news.ifeng.com/c/8uidsBIJWO9",
-          "source": "凤凰网",
+          "title": "特朗普命令全国降半旗",
+          "url": "https://www.douyin.com/hot/2569217",
+          "source": "抖音",
           "ranks": [
-            3
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 13时27分]"
         },
         {
           "title": "特朗普称美军“猛烈打击”伊朗 霍尔木兹海峡“仍然开放”",
@@ -733,6 +833,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 07时44分]"
+        },
+        {
+          "title": "特朗普命令全国降半旗",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BD%E4%BB%A4%E5%85%A8%E5%9B%BD%E9%99%8D%E5%8D%8A%E6%97%97%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         }
       ]
     },
@@ -746,11 +857,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时45分 ~ 09时49分]"
+          "appearance_count": 16,
+          "time_info": "[00时45分 ~ 13时27分]"
         },
         {
           "title": "印度本土为何跑不出一家OpenAI",
@@ -759,7 +871,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         }
