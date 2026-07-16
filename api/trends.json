@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T15:16:01.573685+08:00",
-  "total_titles_processed": 1197,
+  "generated_at": "2026-07-16T17:57:43.038676+08:00",
+  "total_titles_processed": 1372,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 72,
       "titles": [
         {
           "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
@@ -34,8 +34,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时49分 ~ 15时16分]"
+          "appearance_count": 10,
+          "time_info": "[06时49分 ~ 17时57分]"
         },
         {
           "title": "对抗情绪升温，伊朗人又拿“特朗普”出气",
@@ -107,11 +107,12 @@
             16,
             14,
             15,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时55分 ~ 15时16分]"
+          "appearance_count": 9,
+          "time_info": "[02时55分 ~ 17时57分]"
         },
         {
           "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
@@ -234,6 +235,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时50分"
+        },
+        {
+          "title": "特朗普称美国与伊拉克建立大规模石油伙伴关系，此话背后何意味？",
+          "url": "https://flash.jin10.com/detail/20260716175029033800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
         },
         {
           "title": "巴菲特：特朗普提名凯文·沃什出任美联储主席是“正确的选择”",
@@ -381,6 +393,18 @@
           "time_info": "[01时06分 ~ 02时55分]"
         },
         {
+          "title": "特朗普性侵案败诉，已赔付女作家逾 560 万美元，美国现任总统被判定性侵成立，这件事对其影响多大？",
+          "url": "https://www.zhihu.com/question/2060762952576323839",
+          "source": "知乎",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时43分 ~ 17时57分]"
+        },
+        {
           "title": "美国总统特朗普要求纽约州立即改变数据中心政策。",
           "url": "https://wallstreetcn.com/livenews/3134527",
           "source": "华尔街见闻-快讯",
@@ -403,17 +427,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时50分 ~ 07时51分]"
-        },
-        {
-          "title": "特朗普性侵案败诉，已赔付女作家逾 560 万美元，美国现任总统被判定性侵成立，这件事对其影响多大？",
-          "url": "https://www.zhihu.com/question/2060762952576323839",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 15时16分]"
         },
         {
           "title": "美国总统特朗普声称：美国很快将对“非法”卡车司机采取行动。",
@@ -482,6 +495,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        },
+        {
+          "title": "“特朗普金币”来了！面值1美元 计划今年秋季发行",
+          "url": "https://www.cls.cn/detail/2428113",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）他们最好老实点。",
@@ -806,7 +830,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 59,
+      "match_count": 62,
       "titles": [
         {
           "title": "美军称对伊朗进行了90分钟打击",
@@ -818,8 +842,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时06分 ~ 15时16分]"
+          "appearance_count": 15,
+          "time_info": "[01时06分 ~ 17时57分]"
         },
         {
           "title": "上千枚导弹，要飞向伊朗？",
@@ -833,6 +857,18 @@
           "time_info": "[01时06分 ~ 07时51分]"
         },
         {
+          "title": "伊朗议长发声：这是与美国的生存之战",
+          "url": "https://news.ifeng.com/c/8unecXHHhfz",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时51分 ~ 17时57分]"
+        },
+        {
           "title": "美国持续打击伊朗，战争成本预测高达1000亿美元",
           "url": "https://news.ifeng.com/c/8umxPSPZXoN",
           "source": "凤凰网",
@@ -843,18 +879,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时42分 ~ 12时52分]"
-        },
-        {
-          "title": "伊朗议长发声：这是与美国的生存之战",
-          "url": "https://news.ifeng.com/c/8unecXHHhfz",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时51分 ~ 15时16分]"
         },
         {
           "title": "【早报】长鑫科技，今日申购；热门中概股普涨；美军再次打击伊朗；原油小幅收涨",
@@ -941,7 +965,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -1061,6 +1085,20 @@
           "time_info": "04时03分"
         },
         {
+          "title": "美军对驶往伊朗油轮射“地狱火”导弹",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E5%AF%B9%E9%A9%B6%E5%BE%80%E4%BC%8A%E6%9C%97%E6%B2%B9%E8%BD%AE%E5%B0%84%E2%80%9C%E5%9C%B0%E7%8B%B1%E7%81%AB%E2%80%9D%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            12,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时51分 ~ 17时57分]"
+        },
+        {
           "title": "伊朗称美进入正式战争状态",
           "url": "https://www.douyin.com/hot/2571461",
           "source": "抖音",
@@ -1096,19 +1134,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时48分 ~ 06时50分]"
-        },
-        {
-          "title": "美军对驶往伊朗油轮射“地狱火”导弹",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E5%AF%B9%E9%A9%B6%E5%BE%80%E4%BC%8A%E6%9C%97%E6%B2%B9%E8%BD%AE%E5%B0%84%E2%80%9C%E5%9C%B0%E7%8B%B1%E7%81%AB%E2%80%9D%E5%AF%BC%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            12,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时51分 ~ 12时52分]"
         },
         {
           "title": "伊朗“无意谈判”再袭美军基地",
@@ -1210,6 +1235,17 @@
           "time_info": "04时03分"
         },
         {
+          "title": "克里姆林宫：与伊朗保持联系，但尚未收到与俄罗斯总统普京通话的请求。",
+          "url": "https://flash.jin10.com/detail/20260716174534979800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
           "title": "伊朗南部阿瓦士和恰巴哈尔传出爆炸声。（迈赫尔通讯社MEHR）",
           "url": "https://wallstreetcn.com/livenews/3134576",
           "source": "华尔街见闻-快讯",
@@ -1230,6 +1266,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
+        },
+        {
+          "title": "克里姆林宫：伊朗危机的新一轮动荡令人担忧，可能对全球经济造成伤害。",
+          "url": "https://flash.jin10.com/detail/20260716174529210800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
         },
         {
           "title": "伊朗议会议长、顶级谈判员卡利巴夫：我们必须应用外交+谈判手段。 伊朗必须随时准备好（与敌人）战斗。 如果与美国达成的停火谅解备忘录（MoU）不能（给伊朗）带来好处，那就没理由遵守。 国家安全完全取决于伊朗在霍尔木兹海峡问题上的安排。 谈判不等于妥协。 我们正面临一场复杂的战争。（伊朗电视台）",
@@ -1271,7 +1318,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -1307,6 +1354,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
+        },
+        {
+          "title": "伊朗：美国袭击儿童癌症中心 犯下战争罪行",
+          "url": "https://flash.jin10.com/detail/20260716174330864800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
         },
         {
           "title": "据伊朗媒体Fars News：多名伊拉克消息人士称，伊拉克埃尔比勒发生多起爆炸。",
@@ -1469,7 +1527,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         }
@@ -1477,7 +1535,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
@@ -1507,6 +1565,18 @@
           "time_info": "[01时06分 ~ 12时52分]"
         },
         {
+          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时51分 ~ 17时57分]"
+        },
+        {
           "title": "美股收盘：三大股指小幅收涨 中概股集体走强 存储板块逆势暴跌",
           "url": "https://www.cls.cn/detail/2427818",
           "source": "财联社热门",
@@ -1531,17 +1601,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时06分 ~ 09时43分]"
-        },
-        {
-          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
-          "url": "https://wallstreetcn.com/articles/3776964",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时51分 ~ 15时16分]"
         },
         {
           "title": "美国通胀降温提振美股，存储跌幅扩大，戴尔重挫13%，油价转跌",
@@ -1688,7 +1747,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -1757,6 +1816,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
+        },
+        {
+          "title": "百度美股盘前涨超4%，公司寻求于港交所主板自愿转换为双重主要上市",
+          "url": "https://wallstreetcn.com/livenews/3134955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
         }
       ]
     },
@@ -1770,11 +1840,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时51分 ~ 15时16分]"
+          "appearance_count": 5,
+          "time_info": "[12时51分 ~ 17时57分]"
         },
         {
           "title": "美股存储芯片指数初步收跌6.4%，半导体指数跌2.1%。 纳斯达克100指数初步收跌0.3%，成分股中，西部数据初步收跌8.7%，闪迪跌8.5%，美光跌7.9%，Lumentum跌7.3%，希捷科技跌6.1%，思科、英特尔、CoreWeave、AMD至少跌3.4%，Meta、谷歌A涨3%，苹果涨4.1%，汤森路透涨4.2%，PayPal涨17.4%。 亚马逊、微软、3M、Merck初步收涨超2%，与苹果、谷歌A领跑道指成分股。",
@@ -1960,7 +2031,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         }
