@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T07:50:25.618128+08:00",
-  "total_titles_processed": 658,
+  "generated_at": "2026-07-17T09:47:14.300530+08:00",
+  "total_titles_processed": 804,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 54,
+      "match_count": 59,
       "titles": [
         {
           "title": "重启对伊封锁来首次！美国袭击与伊朗有关油轮 海上对抗升级",
@@ -36,7 +36,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -80,7 +80,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -135,7 +135,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -157,7 +157,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -379,9 +379,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        },
+        {
+          "title": "美国政府新规收紧国际学生等入境居留期限 美军连续第五晚打击伊朗 | 环球市场",
+          "url": "https://www.cls.cn/detail/2428979",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         },
         {
           "title": "白宫称伊朗仍在与美国对话",
@@ -423,7 +434,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -448,6 +459,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
+        },
+        {
+          "title": "据伊朗媒体报道，美军周五早间袭击了阿巴斯港铁路枢纽。",
+          "url": "https://wallstreetcn.com/livenews/3135357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         },
         {
           "title": "伊朗革命卫队：只有美国不再存在于该地区，霍尔木兹海峡的安全才能得到全面保障。",
@@ -500,9 +522,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        },
+        {
+          "title": "美国袭击伊朗港口城市致7死9伤",
+          "url": "https://wallstreetcn.com/livenews/3135355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         },
         {
           "title": "伊朗方面否认有美籍人员从该国监狱获释",
@@ -511,7 +544,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -544,7 +577,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -613,12 +646,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
+        },
+        {
+          "title": "美军被曝搁置伊朗小学遇袭事件调查",
+          "url": "https://wallstreetcn.com/livenews/3135342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "伊朗多地遭袭击",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%A4%9A%E5%9C%B0%E9%81%AD%E8%A2%AD%E5%87%BB%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
@@ -651,8 +706,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 07时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 09时47分]"
         },
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -661,20 +716,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时50分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时50分 ~ 09时47分]"
         },
         {
           "title": "美股收盘：芯片股持续下挫拖累纳指跌近1.5% 存储、光通信板块领跌",
           "url": "https://www.cls.cn/detail/2428956",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 09时47分]"
         },
         {
           "title": "金十图示：2026年07月16日（周四）美股热门股票行情一览（美股收盘）",
@@ -697,6 +753,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "7月17日投资避雷针：美股半导体板块再度大跌 SK海力士、闪迪跌超12%",
+          "url": "https://www.cls.cn/detail/2429026",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         },
         {
           "title": "金十图示：2026年07月16日（周四）美股热门股票行情一览（美股盘中）",
@@ -757,6 +824,17 @@
           "time_info": "[04时48分 ~ 05时56分]"
         },
         {
+          "title": "美股芯片股深夜大跌",
+          "url": "https://www.toutiao.com/trending/7663271539885739558/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
           "title": "美股存储芯片指数初步收跌8%，半导体指数跌4%。 标普500指数初步收跌0.6%，电信板块跌3.1%，科技板块跌1.9%，房地产、保健、日用消费品板块涨超2%。 纳斯达克100指数初步收跌1.7%，成分股中，Nebius、闪迪、RKLB、希捷科技、西部数据、Astera Labs初步收跌14.8%-8.8%，Adobe涨4.5%，德康医疗涨7.2%。",
           "url": "https://wallstreetcn.com/livenews/3135259",
           "source": "华尔街见闻-快讯",
@@ -807,7 +885,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         }
@@ -815,7 +893,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
@@ -827,6 +905,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时03分 ~ 07时50分]"
+        },
+        {
+          "title": "谷歌Gemini模型发布延期传闻引发担忧 股价盘中跳水逾3%",
+          "url": "https://www.cls.cn/detail/2428944",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         },
         {
           "title": "报道：谷歌Gemini旗舰模型发布推迟，技术能力未达预期目标",
@@ -1003,7 +1092,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 17,
       "titles": [
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
@@ -1024,9 +1113,31 @@
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时50分 ~ 09时47分]"
+        },
+        {
+          "title": "白宫：特朗普将出席世界杯决赛",
+          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 09时47分]"
+        },
+        {
+          "title": "美国总统特朗普：不转播我演讲的电视网应被吊销执照。",
+          "url": "https://flash.jin10.com/detail/20260717094121843800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时50分"
+          "time_info": "09时47分"
         },
         {
           "title": "白宫提词员利用特朗普演讲内幕获利逾10万美元，CFTC对其展开调查",
@@ -1038,6 +1149,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "美国总统特朗普：国会必须通过选民身份识别法案。",
+          "url": "https://flash.jin10.com/detail/20260717093506237800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         },
         {
           "title": "据CBS：美国总统特朗普将于当地时间7月22日访问亚特兰大都会区一所高中，推广新的“特朗普账户”投资计划。",
@@ -1062,6 +1184,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时57分 ~ 04时48分]"
+        },
+        {
+          "title": "特朗普：我们47年前就应该攻击伊朗，那样会容易得多",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33598128",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         },
         {
           "title": "特朗普将赴世界杯现场观看决赛",
@@ -1092,7 +1225,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -1108,6 +1241,17 @@
           "time_info": "02时56分"
         },
         {
+          "title": "特朗普：很快就会看到在伊朗的成果。",
+          "url": "https://wallstreetcn.com/livenews/3135354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普今晚将谈论选举诚信。 媒体应当播放特朗普今夜的讲话。 重申（特朗普）对沃尔玛的赞赏。 特朗普将前往世界杯决赛现场。",
           "url": "https://wallstreetcn.com/livenews/3135209",
           "source": "华尔街见闻-快讯",
@@ -1117,6 +1261,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "美国总统特朗普向全国发表讲话。特朗普宣扬通胀下降和股市上涨。",
+          "url": "https://wallstreetcn.com/livenews/3135352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：提词器操作员在预测平台Kalshi上就特朗普的发言内容下注，CFTC正在调查。",
@@ -1182,11 +1337,12 @@
           "ranks": [
             8,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时03分 ~ 07时50分]"
+          "appearance_count": 10,
+          "time_info": "[01时03分 ~ 09时47分]"
         },
         {
           "title": "梁文锋打新长鑫科技",
@@ -1241,7 +1397,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -1268,11 +1424,12 @@
           "url": "https://www.cls.cn/detail/2428987",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 09时47分]"
         }
       ]
     }
