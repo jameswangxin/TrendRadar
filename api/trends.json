@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T20:49:45.130130+08:00",
-  "total_titles_processed": 1470,
+  "generated_at": "2026-08-05T23:08:42.487444+08:00",
+  "total_titles_processed": 1619,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "美财长透露与伊朗达成协议的时间",
@@ -66,6 +66,17 @@
           "time_info": "[00时08分 ~ 09时41分]"
         },
         {
+          "title": "伊朗的最后一张牌",
+          "url": "https://news.ifeng.com/c/8vLNKMOtVmN",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时49分 ~ 23时08分]"
+        },
+        {
           "title": "美媒：伊朗考虑允许欧洲在霍尔木兹海峡进行排雷",
           "url": "https://flash.jin10.com/detail/20260804233947485800",
           "source": "金十数据",
@@ -88,15 +99,26 @@
           "time_info": "00时08分"
         },
         {
-          "title": "伊朗的最后一张牌",
-          "url": "https://news.ifeng.com/c/8vLNKMOtVmN",
-          "source": "凤凰网",
+          "title": "福克斯新闻：官员称美财政部移除伊朗相关制裁措施并不代表政策转变",
+          "url": "https://flash.jin10.com/detail/20260805223254370800",
+          "source": "金十数据",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时49分"
+          "time_info": "23时08分"
+        },
+        {
+          "title": "报道：官员称美财政部移除伊朗相关制裁措施并不代表政策转变",
+          "url": "https://wallstreetcn.com/livenews/3145467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "伊朗：与阿曼就霍尔木兹海峡谈判取得“积极进展”，重点是确保航行安全",
@@ -151,7 +173,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
         },
@@ -195,7 +217,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
         },
@@ -277,6 +299,17 @@
           "time_info": "04时19分"
         },
         {
+          "title": "现货白银日内涨幅达5.0%，报62.5美元/盎司。 纽约金日内涨幅达3.0%，报4279美元/盎司。 据美国财政部，美国撤销了涉伊朗相关制裁。",
+          "url": "https://wallstreetcn.com/livenews/3145448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "伊朗国家广播电视台（IRIB）: 伊朗外交部发言人宣布，伊朗与阿曼旨在保障霍尔木兹海峡航运安全通行的谈判仍在继续。",
           "url": "https://wallstreetcn.com/livenews/3144874",
           "source": "华尔街见闻-快讯",
@@ -294,7 +327,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
         },
@@ -324,7 +357,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
@@ -371,6 +404,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "特朗普推进移民执法 美国驱逐令签发量6月升至历史新高",
+          "url": "https://wallstreetcn.com/livenews/3145469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "持武男子在特朗普即将出席活动的加州球场被捕",
@@ -428,6 +472,30 @@
           "time_info": "06时17分"
         },
         {
+          "title": "特朗普所乘直升机遭遇飞行安全事件",
+          "url": "https://www.toutiao.com/trending/7670517654829927979/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时49分 ~ 23时08分]"
+        },
+        {
+          "title": "最快今日宣布！霍尔木兹开放协议据悉接近达成 特朗普发声助阵",
+          "url": "https://www.cls.cn/detail/2446327",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时49分 ~ 23时08分]"
+        },
+        {
           "title": "解析特朗普财务报告",
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE%E8%B4%A2%E5%8A%A1%E6%8A%A5%E5%91%8A",
           "source": "bilibili 热搜",
@@ -459,17 +527,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
-        },
-        {
-          "title": "最快今日宣布！霍尔木兹开放协议据悉接近达成 特朗普发声助阵",
-          "url": "https://www.cls.cn/detail/2446327",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
         },
         {
           "title": "卡塔尔埃米尔与特朗普就美伊局势通话 呼吁继续对话",
@@ -506,23 +563,12 @@
         },
         {
           "title": "特朗普所乘直升机遭遇飞行安全事件",
-          "url": "https://www.toutiao.com/trending/7670517654829927979/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
-        },
-        {
-          "title": "特朗普所乘直升机遭遇飞行安全事件",
           "url": "https://wallstreetcn.com/livenews/3145385",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
         },
@@ -536,6 +582,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
+        },
+        {
+          "title": "特朗普所乘直升机遭遇飞行安全事件",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%80%E4%B9%98%E7%9B%B4%E5%8D%87%E6%9C%BA%E9%81%AD%E9%81%87%E9%A3%9E%E8%A1%8C%E5%AE%89%E5%85%A8%E4%BA%8B%E4%BB%B6",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "白宫再出手压油价：拟延长《琼斯法案》豁免！特朗普怒斥“虚假民调”",
@@ -585,7 +642,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "美股期指全线上涨 卡特彼勒大涨逾10%领涨道指期货 | 今夜看点",
@@ -674,6 +731,17 @@
           "time_info": "04时19分"
         },
         {
+          "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
+          "url": "https://wallstreetcn.com/articles/3778704",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "美股存储芯片指数初步收涨6.8%，费城半导体指数涨6.9%。 标普500指数初步收涨1.9%，科技板块涨4.4%，原材料、工业、金融板块至少涨1%，能源板块跌0.5%。 纳斯达克100指数初步收涨3.4%，成分股中，Palantir初步收涨超29%，Arm控股涨17.1%，美满电子涨13.3%，英特尔涨11.3%，闪迪涨10.7%，泰瑞达、Lumentum、拉姆研究、SpaceX至少涨超8%，Intuitive Surgical Inc.跌1.9%，核电股CEG跌2.1%，亚马逊跌2.3%跌幅第二大，Diamondback Energy跌3.4%。 卡特彼勒初步收涨6.1%，与思科、IBM、安进、高盛、英伟达、家得宝、Salesforce领跑道指成分股。",
           "url": "https://wallstreetcn.com/livenews/3144931",
           "source": "华尔街见闻-快讯",
@@ -729,6 +797,17 @@
           "time_info": "06时17分"
         },
         {
+          "title": "美股期指延续涨势 SpaceX、AMD盘前大跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2446634",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "美股收盘：道指、标普500创新高 海力士涨8%",
           "url": "https://flash.jin10.com/detail/20260805040059195800",
           "source": "金十数据",
@@ -769,7 +848,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
         },
@@ -841,11 +920,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 20时49分]"
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 23时08分]"
         },
         {
           "title": "DeepSeek斩杀了谁",
@@ -936,7 +1016,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
         }
@@ -944,7 +1024,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "苹果状告OpenAI，反遭嘲讽：律师连邮件都发不对",
@@ -978,6 +1058,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时08分 ~ 09时41分]"
+        },
+        {
+          "title": "怎么看 OpenAI 提到下一代 Harness 将脱离 PC，两三个月后现在的 Codex 工作方式会淘汰？",
+          "url": "https://www.zhihu.com/question/2068265537105302957",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "英国机构报告AI安全事件 涉Anthropic和OpenAI模型",
@@ -1124,7 +1215,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
         }
@@ -1139,11 +1230,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%87%8D%E5%9B%9E900%E5%85%83%E5%A4%A7%E5%85%B3%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
-            30
+            30,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时49分 ~ 23时08分]"
         }
       ]
     }
