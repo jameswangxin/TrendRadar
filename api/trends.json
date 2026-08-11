@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T14:48:17.956295+08:00",
-  "total_titles_processed": 1250,
+  "generated_at": "2026-08-11T17:52:04.944643+08:00",
+  "total_titles_processed": 1421,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,17 @@
           "time_info": "[00时43分 ~ 07时26分]"
         },
         {
+          "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
+          "url": "https://news.ifeng.com/c/8vUAxbsrTSq",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[08时57分 ~ 17时52分]"
+        },
+        {
           "title": "伊朗回应特朗普“棋局”比喻：伊朗人是“专业棋手”",
           "url": "https://news.ifeng.com/c/8vTu2Im0JsI",
           "source": "凤凰网",
@@ -31,15 +42,28 @@
           "time_info": "[00时43分 ~ 07时26分]"
         },
         {
-          "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
-          "url": "https://news.ifeng.com/c/8vUAxbsrTSq",
-          "source": "凤凰网",
+          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
+          "url": "https://wallstreetcn.com/articles/3779107",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            8,
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时57分 ~ 14时48分]"
+          "appearance_count": 10,
+          "time_info": "[11时01分 ~ 17时52分]"
+        },
+        {
+          "title": "特朗普：美军已100%控制霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[08时57分 ~ 17时52分]"
         },
         {
           "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
@@ -65,29 +89,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时43分 ~ 11时02分]"
-        },
-        {
-          "title": "特朗普：美军已100%控制霍尔木兹海峡",
-          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时57分 ~ 14时48分]"
-        },
-        {
-          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
-          "url": "https://wallstreetcn.com/articles/3779107",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时01分 ~ 14时48分]"
         },
         {
           "title": "外媒曝出惊人消息：特朗普放弃对伊朗的头号要求",
@@ -132,8 +133,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时47分 ~ 14时48分]"
+          "appearance_count": 4,
+          "time_info": "[14时47分 ~ 17时52分]"
         },
         {
           "title": "美媒：特朗普上月秘密乘运输机回国",
@@ -179,6 +180,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "和平希望又受挫！特朗普称美军已“100%控制”霍尔木兹，并向伊朗索赔",
+          "url": "https://www.cls.cn/detail/2450709",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 17时52分]"
         },
         {
           "title": "释疑｜总在开盘前喊停？从两万五千条交易数据，看特朗普投资“玄学”",
@@ -297,18 +311,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时02分 ~ 12时22分]"
-        },
-        {
-          "title": "和平希望又受挫！特朗普称美军已“100%控制”霍尔木兹，并向伊朗索赔",
-          "url": "https://www.cls.cn/detail/2450709",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 14时48分]"
         },
         {
           "title": "特朗普称美军已“100%控制”霍尔木兹海峡 | 环球市场",
@@ -506,7 +508,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
@@ -516,19 +518,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时57分 ~ 14时48分]"
+          "appearance_count": 11,
+          "time_info": "[08时57分 ~ 17时52分]"
         },
         {
-          "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
-          "url": "https://news.ifeng.com/c/8vTiqvCqOyW",
+          "title": "伊朗最高领袖调整6名军方高层，美媒：德黑兰发出了信号",
+          "url": "https://news.ifeng.com/c/8vUtL7Lqyat",
           "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[11时01分 ~ 17时52分]"
         },
         {
           "title": "伊朗更强硬的强硬派来了",
@@ -540,19 +542,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时57分 ~ 14时48分]"
+          "appearance_count": 11,
+          "time_info": "[08时57分 ~ 17时52分]"
         },
         {
-          "title": "伊朗最高领袖调整6名军方高层，美媒：德黑兰发出了信号",
-          "url": "https://news.ifeng.com/c/8vUtL7Lqyat",
+          "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
+          "url": "https://news.ifeng.com/c/8vTiqvCqOyW",
           "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时01分 ~ 14时48分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 06时27分]"
         },
         {
           "title": "伊朗的5个条件，美国是否会照单全收？",
@@ -955,6 +957,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "伊朗警告乌克兰：不赔偿就动手",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E4%B9%8C%E5%85%8B%E5%85%B0%EF%BC%9A%E4%B8%8D%E8%B5%94%E5%81%BF%E5%B0%B1%E5%8A%A8%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         }
       ]
     },
@@ -970,8 +983,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时57分 ~ 14时48分]"
+          "appearance_count": 11,
+          "time_info": "[08时57分 ~ 17时52分]"
         },
         {
           "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
