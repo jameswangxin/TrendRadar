@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T13:42:01.412166+08:00",
-  "total_titles_processed": 1002,
+  "generated_at": "2026-08-13T15:12:54.859755+08:00",
+  "total_titles_processed": 1125,
   "failed_sources": [],
   "trends": [
     {
@@ -80,6 +80,18 @@
           "time_info": "[00时46分 ~ 06时31分]"
         },
         {
+          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 15时12分]"
+        },
+        {
           "title": "美国总统特朗普周四日程一览",
           "url": "https://flash.jin10.com/detail/20260813084959344800",
           "source": "金十数据",
@@ -100,17 +112,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
-        },
-        {
-          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 13时42分]"
         },
         {
           "title": "特朗普：白宫新闻秘书莱维特将卸任，以便有更多时间陪伴家人。莱维特将成为我的高级外部顾问之一。",
@@ -201,6 +202,18 @@
           "time_info": "[03时56分 ~ 04时34分]"
         },
         {
+          "title": "特朗普声称掌控霍尔木兹、伊朗坚决否认 海峡通行量跌至三个月最低",
+          "url": "https://www.cls.cn/detail/2452937",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 15时12分]"
+        },
+        {
           "title": "特朗普：白宫新闻秘书莱维特将于本月底离任",
           "url": "https://flash.jin10.com/detail/20260813035525711800",
           "source": "金十数据",
@@ -235,17 +248,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时56分 ~ 04时34分]"
-        },
-        {
-          "title": "特朗普声称掌控霍尔木兹、伊朗坚决否认 海峡通行量跌至三个月最低",
-          "url": "https://www.cls.cn/detail/2452937",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 13时42分]"
         },
         {
           "title": "据Axios：特朗普政府批评以色列国防部长卡茨有关继续占领黎巴嫩南部的言论，并表示相关表态违背了以色列政府与美国及黎巴嫩签署协议中的承诺。",
@@ -302,7 +304,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
         },
@@ -332,7 +334,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "DeepSeek V4 Pro正式版上线",
@@ -380,19 +382,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时04分 ~ 13时42分]"
-        },
-        {
-          "title": "梁文锋财富一年暴涨 3850% ，跻身全球亿万富豪榜，他是如何做到的？",
-          "url": "https://www.zhihu.com/question/2070810807168980648",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 09时04分]"
+          "appearance_count": 5,
+          "time_info": "[09时04分 ~ 15时12分]"
         },
         {
           "title": "DeepSeek V4 Pro 正式版发布，如何评价该模型？",
@@ -402,8 +393,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时04分 ~ 13时42分]"
+          "appearance_count": 4,
+          "time_info": "[09时04分 ~ 15时12分]"
         },
         {
           "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
@@ -415,8 +406,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时04分 ~ 13时42分]"
+          "appearance_count": 4,
+          "time_info": "[09时04分 ~ 15时12分]"
+        },
+        {
+          "title": "梁文锋财富一年暴涨 3850% ，跻身全球亿万富豪榜，他是如何做到的？",
+          "url": "https://www.zhihu.com/question/2070810807168980648",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 09时04分]"
         },
         {
           "title": "DeepSeek发布V4Pro正式版",
@@ -469,6 +471,28 @@
           "time_info": "09时04分"
         },
         {
+          "title": "快把真正的DeepSeek V4 Pro还给我",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BF%AB%E6%8A%8A%E7%9C%9F%E6%AD%A3%E7%9A%84DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%98%E7%BB%99%E6%88%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
+        {
+          "title": "腾讯CodeBuddy支持DeepSeek-V4-Pro正式版",
+          "url": "https://flash.jin10.com/detail/20260813145830026800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
+        {
           "title": "Deepseek V4Pro 正式版发布，相比 Claude Fable 5 等模型，性能如何？性价比高吗？",
           "url": "https://www.zhihu.com/question/2071019389479023642",
           "source": "知乎",
@@ -516,6 +540,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "真实项目实测DeepSeek V4 Pro",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%A1%B9%E7%9B%AE%E6%B5%8BDeepSeek%20V4%20Pro",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
         }
       ]
     },
@@ -543,8 +578,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时30分 ~ 13时42分]"
+          "appearance_count": 7,
+          "time_info": "[06时30分 ~ 15时12分]"
         },
         {
           "title": "美股收盘：CPI如期放缓削弱加息预期 存储、光通信、新云板块齐飞",
@@ -555,8 +590,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时04分 ~ 13时42分]"
+          "appearance_count": 4,
+          "time_info": "[09时04分 ~ 15时12分]"
         },
         {
           "title": "金十图示：2026年08月12日（周三）美股热门股票行情一览（美股收盘）",
@@ -703,8 +738,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时04分 ~ 13时42分]"
+          "appearance_count": 4,
+          "time_info": "[09时04分 ~ 15时12分]"
         },
         {
           "title": "伊朗：目前使用武器都是自主研发的",
@@ -842,8 +877,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时04分 ~ 13时42分]"
+          "appearance_count": 5,
+          "time_info": "[09时04分 ~ 15时12分]"
         },
         {
           "title": "消息人士：谷歌重组部门全力发展Gemini",
@@ -980,11 +1015,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 13时42分]"
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 15时12分]"
         },
         {
           "title": "周三（8月12日）纽约尾盘，2年期至7年期美债收益率日内微跌，长端收益率基本持平。此前7月CPI数据表现温和，交易员小幅下调了对美联储未来几个月加息次数的押注。 美国10年期国债收益率涨0.21个基点，报4.684%。 两年期美债收益率跌0.64个基点，报4.197%；30年期美债收益率涨0.96个基点，报5.250%。 受美债标售及大宗交易推动，2年期与10年期美债收益率价差一度触及49个基点，创下5月中旬以来的最阔水平，曲线趋陡态势明显。 10年期通胀保值国债（TIPS）收益率跌0.56个基点，至2.414%；30年期TIPS收益率跌0.2个基点，至3.013%。",
